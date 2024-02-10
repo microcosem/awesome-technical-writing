@@ -1,5 +1,5 @@
 > [!TIP]
-> Welcome to my (MicrocosEm's) fork of [the awesome-technical-writing repo](https://github.com/BolajiAyodeji/awesome-technical-writing). I've made this fork in order to publish a wiki alongside it to help guide the reader in a more directed way to becoming a technical writer in the tech industry today. This repository's README will serve as a bank of resources to which I refer in the wiki guides.
+> Welcome to my (MicrocosEm's) fork of [the awesome-technical-writing repo](https://github.com/BolajiAyodeji/awesome-technical-writing). I've made this fork in order to publish a wiki alongside it, in the hopes of guiding the reader towards becoming a technical writer in the tech industry today. This repository's README will serve as a bank of resources to which I refer in the wiki guides.
 
 <div align="center">
   
